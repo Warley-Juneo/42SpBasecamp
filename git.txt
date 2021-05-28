@@ -1,0 +1,15 @@
+Aprendendo comandos:
+
+git clone - clonar o repositorio
+git diff  - visualizar versão local e versão alterada
+git status - 
+git add -
+git commit - 
+git log - para visualizar o hash/versões
+git checkout - Pular de versão em versão
+git branch -
+git push - empurrar informações locais para o repositorio github
+git pull - Versão do repositorio remoto para o local
+
+Outros: 
+touch | history
